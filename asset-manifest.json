@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/https//dzonasm.github.io/monsters-rolodex/static/css/main.da0c2d1d.chunk.css",
+    "main.js": "/https//dzonasm.github.io/monsters-rolodex/static/js/main.a836b6a0.chunk.js",
+    "main.js.map": "/https//dzonasm.github.io/monsters-rolodex/static/js/main.a836b6a0.chunk.js.map",
+    "runtime-main.js": "/https//dzonasm.github.io/monsters-rolodex/static/js/runtime-main.8389ae65.js",
+    "runtime-main.js.map": "/https//dzonasm.github.io/monsters-rolodex/static/js/runtime-main.8389ae65.js.map",
+    "static/js/2.b4309f00.chunk.js": "/https//dzonasm.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js",
+    "static/js/2.b4309f00.chunk.js.map": "/https//dzonasm.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.map",
+    "index.html": "/https//dzonasm.github.io/monsters-rolodex/index.html",
+    "precache-manifest.6b5b9f11dd2a60db7bac5c5c45cc670b.js": "/https//dzonasm.github.io/monsters-rolodex/precache-manifest.6b5b9f11dd2a60db7bac5c5c45cc670b.js",
+    "service-worker.js": "/https//dzonasm.github.io/monsters-rolodex/service-worker.js",
+    "static/css/main.da0c2d1d.chunk.css.map": "/https//dzonasm.github.io/monsters-rolodex/static/css/main.da0c2d1d.chunk.css.map",
+    "static/js/2.b4309f00.chunk.js.LICENSE.txt": "/https//dzonasm.github.io/monsters-rolodex/static/js/2.b4309f00.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8389ae65.js",
+    "static/js/2.b4309f00.chunk.js",
+    "static/css/main.da0c2d1d.chunk.css",
+    "static/js/main.a836b6a0.chunk.js"
+  ]
+}
